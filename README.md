@@ -8,6 +8,3 @@ I have provided the link to my email and other social sites such that you can ha
 <strong> Thank you
 
 
-=======
-# Website-Final
->>>>>>> 2cf679c57c312fca7422eb1bf068f1c6e7129540
