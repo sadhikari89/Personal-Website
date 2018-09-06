@@ -1,4 +1,4 @@
-body {background-color: lightgray;}
+body {background-color: light grey;}
 
 h1 {color: green; font:elephant;text-align:center; margin-bottom:1px;}
 
@@ -6,7 +6,7 @@ h4 {color:maroon; font:elephant; text-align:center; margin-top:1px;}
 
 ul{ list-style-type:none;}
 
-.img {height: 5px; width: 5px;}
+.img {height: 35px; width: 35px;}
 
 .pic {border:5px solid maroon;}
 
@@ -18,4 +18,4 @@ ul{ list-style-type:none;}
 
 #res {line-height:2em; list-style-type: number; font-size: 16px;}
 
-.redtext{color:red;}
+.red text{color:red;}
