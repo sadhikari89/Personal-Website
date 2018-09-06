@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My Website
 <strong>Designer </strong>: Suraj Adhikari <br/>
 <strong>Affiliation </strong>: University of Nebraska at Omaha, Student: MS-MIS <br/>
